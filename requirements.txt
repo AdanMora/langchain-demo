@@ -1,0 +1,8 @@
+langchain==0.3.27
+langchain-community==0.3.29
+langchain-core==0.3.75
+langchain-text-splitters==0.3.11
+langsmith==0.4.23
+numexpr==2.11.0
+openai==1.105.0
+wikipedia==1.4.0
